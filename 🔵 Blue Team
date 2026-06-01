@@ -1,0 +1,29 @@
+Junior Security Analyst Intro
+## The SOC : A Summary
+
+A **Security Operations Center (SOC)** is a collaborative, 24/7 environment where a specialized team works together to defend an organization against evolving cyber threats. As a **Junior Security Analyst (SOC Level 1)**, you serve as the first line of defense, monitoring alerts and performing initial investigations to keep the company out of the headlines.
+
+### The Team Structure
+
+You are supported by a diverse group of experts, each with a distinct role:
+
+- **Senior Analysts:** Provide mentorship and handle complex escalations.
+- **SOC Engineers:** Maintain and fine-tune the security tools and alert systems.
+- **SOC Managers:** Oversee operations and report results to top management.
+- **Incident Responders:** Specialized experts called in to manage major, high-stakes breaches.
+
+### Core Responsibilities & Evolution
+
+Your journey involves transitioning from reactive monitoring to proactive defense. Key duties include:
+
+1. **Investigation:** Detecting and neutralizing threats like phishing, malware, and ransomware.
+2. **Collaboration:** Participating in workshops and teaming up with engineers to build better detection rules.
+3. **Growth:** Constantly learning new attack vectors and understanding how security integrates with overall business operations.
+
+---
+
+# **IP Hunter**
+
+Check by IP Address
+
+There are many open-source databases out there, like AbuseIPDB, and Cisco Talos Intelligence, where you can perform a reputation and location check for the IP address. Most security analysts use these tools to aid them with alert investigations. You can also make the Internet safer by reporting the malicious IPs, for example, on AbuseIPDB.
